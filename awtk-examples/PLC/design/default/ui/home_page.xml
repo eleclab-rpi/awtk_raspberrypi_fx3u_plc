@@ -1,0 +1,21 @@
+<window name="home_page">
+  <image name="bg" x="0" y="52" w="800" h="428" draw_type="default" style:normal:bg_image="FX3U_32MR"/>
+  <button name="bt_close" x="748" y="0" w="52" h="52" style:normal:bg_image="bt_close" text=""/>
+  <image name="title" x="0" y="0" w="300" h="52" draw_type="default" style:normal:bg_image="comp_name"/>
+  <image name="led_y0" x="254" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y1" x="273" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y2" x="292" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y3" x="311" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y4" x="330" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y5" x="349" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y6" x="368" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y7" x="387" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y8" x="424" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y9" x="443" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y10" x="462" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y11" x="481" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y12" x="500" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y13" x="519" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y14" x="539" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+  <image name="led_y15" x="558" y="134" w="12" h="12" draw_type="default" style:normal:bg_image="led_off"/>
+</window>

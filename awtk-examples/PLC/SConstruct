@@ -1,0 +1,19 @@
+import os
+import scripts.app_helper as app
+
+def initArgument(name, defVal):
+    val = ARGUMENTS.get(name, '')
+    if len(val) == 0:
+        ARGUMENTS[name] = defVal
+
+initArgument('SHARED', 'False')
+initArgument('IDL_DEF', 'False')
+initArgument('LCD', '800_480')
+initArgument('THEME', 'default')
+initArgument('RES_ROOT', '../res')
+initArgument('LANGUAGE', 'zh_CN')
+helper = app.Helper(ARGUMENTS);
+helper.call(DefaultEnvironment)
+
+SConscriptFiles = ['src/SConscript']
+SConscript(SConscriptFiles)

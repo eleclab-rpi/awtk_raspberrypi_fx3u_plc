@@ -1,0 +1,36 @@
+{
+  "name": "PLC",
+  "entry": "home_page",
+  "assets": {
+    "activedTheme": "default",
+    "outputDir": "res",
+    "loadFrom": "any",
+    "const": "resource_data",
+    "screenDPR": "x1",
+    "defaultLanguage": "zh",
+    "defaultCountry": "CN",
+    "themes": {
+      "default": {
+        "activedSystemBar": "system_bar",
+        "activedBottomSystemBar": "system_bar_b",
+        "packaged": true,
+        "fonts": {
+          "default": {
+            "text": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+          }
+        },
+        "lcd": {
+          "width": "800",
+          "height": "480",
+          "colorDepth": "32bit",
+          "colorFormat": "BGR(A)"
+        }
+      }
+    }
+  },
+  "modifyTime": "2020/12/05",
+  "creator": {
+    "name": "AWTK Designer",
+    "version": "0.1.7"
+  }
+}
